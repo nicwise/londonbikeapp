@@ -34,16 +34,16 @@ There is an overuse of delegate {} - I tend to do methods, not delegates, now. I
 Copyright and other notes
 ===================
 
-**MonoTouch.Dialog**here is a very old, but customised version. If you are going to to an MT.D project,
+**MonoTouch.Dialog** here is a very old, but customised version. If you are going to to an MT.D project,
 get the real one from https://github.com/migueldeicaza/MonoTouch.Dialog
 
 MT.D, btw, is totally essential if you are doing lists.
 
-**Brilliant icons from Glyphish**http://glyphish.com
+**Brilliant icons from Glyphish** http://glyphish.com
 
 This package includes only the public (CC-BY) icons, which are available on the glyphish site. If you own the pro version,
 drop the @2x version in next to them, and it'll work
 
 If you don't have this icon set, and you are doing iOS development, you're a fool (or an icon designer)
 
-**A few parts of the code are copyright their original authors**Reference to the source and the author is in the header.
+**A few parts of the code are copyright their original authors** Reference to the source and the author is in the header.
