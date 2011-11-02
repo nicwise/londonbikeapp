@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TflTripLog.cs">
+    <Files>
+      <File FileName="Main.cs" Line="49" Column="28" />
+      <File FileName="TripLog.cs" Line="1" Column="1" />
+      <File FileName="TFLLoginViewController.cs" Line="1" Column="1" />
+      <File FileName="TflTripLog.cs" Line="158" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="LondonBike" expanded="True">
+            <Node name="Settings.bundle" expanded="True" />
+            <Node name="TflTripLog.cs" selected="True" />
+            <Node name="TimerViewController.xib" expanded="True" />
+            <Node name="TripLogDetailViewController.xib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

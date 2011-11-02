@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Title</key>
+	<string>AppSettings</string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Units</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Use Kilometers</string>
+			<key>Key</key>
+			<string>UseKMs</string>
+			<key>DefaultValue</key>
+			<false/>
+			<key>TrueValue</key>
+			<true/>
+			<key>FalseValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Routing</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Routing</string>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>DefaultValue</key>
+			<string>cyclestreets-fastest</string>
+			<key>Key</key>
+			<string>routing_type</string>
+			<key>Titles</key>
+			<array>
+				<string>CycleStreets - Fastest</string>
+				<string>CycleStreets - Balanced</string>
+				<string>CycleStreets - Quietest</string>
+				<string>Cloudmade</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>cyclestreets-fastest</string>
+				<string>cyclestreets-balanced</string>
+				<string>cyclestreets-quietest</string>
+				<string>cloudmade</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
